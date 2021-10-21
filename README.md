@@ -1,7 +1,7 @@
 # Drift Dataset
 
 Drift Dataset contain datasets of different drift types — Covariate Drift, Actual Drift, Concept Drift. Also, we provide a PyTorch portal for data loading.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/cealia/drift_dataset/blob/master/dataset_info.png)
 
 ## Download
 Download datasets from [link](http://140.112.31.182/download/).
